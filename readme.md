@@ -1,4 +1,5 @@
 # Mollio
+[![Build Status](https://dev.azure.com/harshalnarkhede/Test_work_items/_apis/build/status/harshalnar.mollio)](https://dev.azure.com/harshalnarkhede/Test_work_items/_build/latest?definitionId=3)
 
 Mollio is a simple set of open source html/css templates, released in 2006 by 
 [Daemon Internet Consultants](http://www.daemon.com.au). The aim was to create a set of page templates that use 
